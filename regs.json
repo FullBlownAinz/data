@@ -1,0 +1,402 @@
+[
+  {
+    "id": "charter-article-14-sec-31",
+    "code": "Federation Charter, Article 14, Section 31",
+    "title": "Extraordinary Measures in Dire Emergencies",
+    "summary": "Allows extraordinary measures in dire emergencies; often cited as the legal basis for Section 31.",
+    "text": "Article 14, Section 31 of the Federation Charter is referenced as permitting “extraordinary measures” in times of grave emergency.\nOn-screen material links this clause to the controversial intelligence apparatus known as “Section 31.”\nIn circumstances that threaten the security or existence of the Federation, executive authorities may authorize exceptional steps\nthat would otherwise be outside routine Starfleet procedure. Interpretations vary by era and jurisdiction.",
+    "hidden": false
+  },
+  {
+    "id": "fedreg-book-19-sec-433-para-12",
+    "code": "Federation Regulation, Book 19, Section 433, Paragraph 12",
+    "title": "Civilian Authority Over Starfleet Officers (Emergency Orders)",
+    "summary": "Recognizes circumstances where ranking Federation officials may issue direct orders to Starfleet personnel.",
+    "text": "This regulation has been cited in cases where a ranking Federation official assumed directive authority over a Starfleet operation during an active emergency.\nTypical use involves search‑and‑rescue or civil protection scenarios when immediate action is required and Starfleet’s chain of command is unavailable\nor superseded by intergovernmental mandate. Invocation remains subject to later review by Starfleet Command and the Federation Council.",
+    "hidden": false
+  },
+  {
+    "id": "gep-title-15",
+    "code": "Galactic Emergency Procedures, Title 15",
+    "title": "Temporary Civilian Command of Starfleet Vessels",
+    "summary": "Authorizes ranking Federation officials to assume direct command of Starfleet vessels under specific emergency conditions.",
+    "text": "Title 15 of the Galactic Emergency Procedures codifies the limited transfer of operational control to ranking civilian officials in narrowly defined emergencies.\nThe scope is temporary, mission‑bound, and requires subsequent reporting to Starfleet Command. This authority is typically constrained to life‑safety or\ninterstellar public‑order incidents when delay would create unacceptable risk.",
+    "hidden": false
+  },
+  {
+    "id": "go-1",
+    "code": "Starfleet General Order 1",
+    "title": "The Prime Directive (Non‑Interference)",
+    "summary": "Prohibits interference with the natural development of alien cultures; later styled the Prime Directive and paramount over most other orders.",
+    "text": "General Order 1 establishes the Federation’s foundational rule of non‑interference with the internal development of other cultures, especially pre‑warp societies.\nIt forbids actions—overt or covert—that would alter a civilization’s natural evolutionary trajectory, even when intervention appears benevolent.\nExceptions are rare and narrowly tailored (e.g., to remedy prior contamination or catastrophic errors). The Omega Directive is one of the few instruments\nthat can supersede it in scope‑limited cases.",
+    "hidden": false
+  },
+  {
+    "id": "go-2",
+    "code": "Starfleet General Order 2",
+    "title": "Prohibition on Unnecessary Force",
+    "summary": "Forbids the unnecessary use of force by Starfleet personnel against Federation members or sentient beings.",
+    "text": "General Order 2 articulates a bright‑line standard against the unnecessary application of force. It aligns operational conduct with Federation values,\nrequiring de‑escalation and measured response in civil and interstellar contexts. Violations are subject to review and sanction under Starfleet justice procedures.",
+    "hidden": false
+  },
+  {
+    "id": "go-3",
+    "code": "Starfleet General Order 3",
+    "title": "Respect for Member Sovereignty and Local Law",
+    "summary": "Requires Starfleet personnel to observe the statutes and ordinances of Federation member worlds within their jurisdictions.",
+    "text": "General Order 3 balances Federation cohesion with planetary sovereignty. When operating within a member world’s jurisdiction, Starfleet personnel are obligated to\nobserve all applicable local statutes and ordinances, subject to higher‑order constitutional guarantees and duty exceptions. Sanctions may include local penalties\nand Starfleet disciplinary action.",
+    "hidden": false
+  },
+  {
+    "id": "go-4",
+    "code": "Starfleet General Order 4",
+    "title": "Capital Offense Exception (Legacy)",
+    "summary": "Historically referenced as the sole death‑penalty exception in certain 23rd‑century sources; exact elements remain unspecified in canon.",
+    "text": "General Order 4 is cited in some 23rd‑century records as the “only exception” to the Federation’s prohibition on the death penalty, though its exact scope\nis not clearly defined in surviving canon materials. Later commentary frequently discusses GO‑4 in relation to GO‑7 and the evolving legal stance on capital punishment.",
+    "hidden": false
+  },
+  {
+    "id": "go-7",
+    "code": "Starfleet General Order 7",
+    "title": "Talos IV Prohibition (Capital Crime)",
+    "summary": "Forbade travel to or contact with Talos IV; long considered the only capital offense on the books.",
+    "text": "General Order 7 barred any Federation vessel from visiting Talos IV, elevating violations to a capital crime for reasons held at the highest classification levels.\nThe policy aim was to protect Federation personnel from the Talosians’ psychogenic capabilities and the broader risks of exposure.\nSubsequent eras softened or rescinded the penalty structure, but the historical prohibition remains a landmark in Starfleet jurisprudence.",
+    "hidden": false
+  },
+  {
+    "id": "dir-010",
+    "code": "Directive 010",
+    "title": "Nonmilitary Resolution Prior to Engagement",
+    "summary": "Requires attempts at first contact and nonmilitary resolution before engaging alien species in battle.",
+    "text": "Directive 010 formalizes escalation control: before initiating combat with an alien power, commanders must attempt first contact and seek a peaceful resolution.\nThe rule provides commanders with a defensible checklist for diplomacy under high tension while preserving the right of self‑defense if threatened.",
+    "hidden": false
+  },
+  {
+    "id": "dir-101",
+    "code": "Directive 101",
+    "title": "Right Against Self‑Incrimination",
+    "summary": "Affirms that accused individuals are not required to answer questions—an analogue to the Seventh Guarantee.",
+    "text": "Directive 101 codifies procedural protections for the accused, aligning Starfleet practice with Federation civil liberties doctrines.\nIt mirrors protections summarized in the Seventh Guarantee of the Federation Constitution and applies to both line and civilian proceedings.",
+    "hidden": false
+  },
+  {
+    "id": "dir-prime",
+    "code": "Prime Directive",
+    "title": "Superseding Canon Name for General Order 1",
+    "summary": "Canonical name and framing for General Order 1’s non‑interference principle.",
+    "text": "The Prime Directive is the commonly used designation for General Order 1. Over time, official communications and training materials adopted the name\nto emphasize the rule’s moral centrality and precedence in decision‑making.",
+    "hidden": false
+  },
+  {
+    "id": "dir-omega",
+    "code": "Omega Directive",
+    "title": "Absolute Priority to Neutralize Omega Phenomena",
+    "summary": "Authorizes any and all means to destroy Omega molecules; overrides other directives including the Prime Directive.",
+    "text": "The Omega Directive activates in the presence of Omega molecules, whose destabilizing effects threaten subspace itself.\nOnce invoked, it grants commanding officers broad latitude—up to and including actions otherwise barred by policy—to neutralize the threat.\nAccess to briefing materials is compartmentalized at the highest levels.",
+    "hidden": false
+  },
+  {
+    "id": "dir-temporal-prime",
+    "code": "Temporal Prime Directive",
+    "title": "Non‑Interference in Historical Events",
+    "summary": "Forbids direct interference in established history, even to correct perceived injustices.",
+    "text": "The Temporal Prime Directive extends non‑interference into the temporal domain, instructing personnel to avoid actions that would alter established timelines.\nEnforcement is coordinated with temporal affairs bureaus where present and may involve containment, memory remediation, or timeline restoration protocols.",
+    "hidden": false
+  },
+  {
+    "id": "tactical-dir-36",
+    "code": "Tactical Directive 36",
+    "title": "Security Escort Requirement for Hostile Engagements",
+    "summary": "States the captain will not engage a hostile force without protection of a security officer.",
+    "text": "This tactical directive hardens bridge resource management during combat operations by requiring security‑officer coverage for command staff during hostile engagements.\nThe directive encapsulates lessons learned from boarding actions and surprise incursions.",
+    "hidden": false
+  },
+  {
+    "id": "labor-sec-48-alpha7",
+    "code": "Starfleet Labor Code, Section 48, Alpha‑7",
+    "title": "Mandatory Meal Breaks",
+    "summary": "Requires meal breaks at regular intervals; cited across multiple centuries.",
+    "text": "Section 48 Alpha‑7 establishes minimum rest and nutrition standards for duty rosters. Shipboard operations adapt the rule to watch cycles and mission tempo,\nbut the baseline requirement is persistent across eras for crew health and performance.",
+    "hidden": false
+  },
+  {
+    "id": "order-2",
+    "code": "Starfleet Order 2",
+    "title": "Prohibition on Taking Intelligent Life",
+    "summary": "Codifies Starfleet’s regulation against the taking of intelligent life.",
+    "text": "Starfleet Order 2 encapsulates the presumption against lethal force where sentient life is concerned. While self‑defense remains authorized, the order demands\nstrict necessity and proportionality and underpins training in rules of engagement.",
+    "hidden": false
+  },
+  {
+    "id": "order-104-b1a",
+    "code": "Starfleet Order 104, Section B, Paragraph 1‑A",
+    "title": "Flag Officer Assumption of Command",
+    "summary": "Permits a flag officer to assume command of a starship in the captain’s absence when necessary.",
+    "text": "This provision enables a flag officer to take command of a vessel whose assigned captain is absent or incapacitated, provided necessity is established.\nIt ensures continuity of command in crises and is paired with medical and psychological safeguard clauses.",
+    "hidden": false
+  },
+  {
+    "id": "order-104-c",
+    "code": "Starfleet Order 104, Section C",
+    "title": "Medical Relief of Command",
+    "summary": "Authorizes relief of a flag officer or commanding officer upon certified medical or psychological unfitness.",
+    "text": "Section C provides a due‑process pathway to relieve an officer—up to and including a flag officer—on medical or psychological grounds.\nCertification by the chief medical officer or equivalent admissible evidence is required; the standard protects the ship while preventing capricious removals.",
+    "hidden": false
+  },
+  {
+    "id": "order-2005",
+    "code": "Starfleet Order 2005",
+    "title": "Self‑Destruct Authorization",
+    "summary": "Permits deliberate matter‑antimatter mix to scuttle a starship as a last resort.",
+    "text": "Order 2005 authorizes a commanding officer to initiate destruct procedures to prevent capture or catastrophic misuse of Federation technology and personnel.\nThe order is a last resort and involves multi‑party authentication and automated failsafes.",
+    "hidden": false
+  },
+  {
+    "id": "order-28455",
+    "code": "Starfleet Order 28455",
+    "title": "Formal Relief by Successor",
+    "summary": "Specifies the process by which a successor formally relieves a commanding officer.",
+    "text": "This order defines the handoff protocol for command reliefs, including notification, verification of authority, and log entries.\nIt ensures continuity of operations and reduces disputes about lawful command.",
+    "hidden": false
+  },
+  {
+    "id": "special-order-66715",
+    "code": "Special Order 66715",
+    "title": "Neutralize Security Threats to Strategic Installations",
+    "summary": "Grants authority to neutralize threats to Deep Space 9 by any means necessary (disputed in‑universe attribution).",
+    "text": "Referenced in the context of Deep Space 9, this special order purportedly authorized “any means necessary” to neutralize security threats to the station.\nSome accounts attribute the order to a simulated environment; nonetheless, the formulation reflects wartime posture during the Dominion conflict.",
+    "hidden": false
+  },
+  {
+    "id": "reg-3-para-12",
+    "code": "Regulation 3, Paragraph 12",
+    "title": "Emergency Preservation of Life",
+    "summary": "Authorizes captains to preserve crew lives by any justifiable means in imminent‑destruction scenarios.",
+    "text": "Regulation 3, Paragraph 12 gives commanding officers emergency latitude to preserve life when destruction is imminent.\nThe rule has been cited to justify extreme measures, but its scope does not shield unlawful acts against non‑combatants.",
+    "hidden": false
+  },
+  {
+    "id": "reg-7-para-4",
+    "code": "Regulation 7, Paragraph 4",
+    "title": "Arrest & Surrender Protocols",
+    "summary": "Outlines how officers must consider themselves under arrest pending charges before senior officers.",
+    "text": "This provision codifies custody etiquette inside the chain of command. When charges are presented without immediate hearing,\nthe accused officer is to consider themself under arrest and respond per the senior‑officer present rule until a competent authority adjudicates.",
+    "hidden": false
+  },
+  {
+    "id": "reg-15",
+    "code": "Regulation 15",
+    "title": "Weapons Transfer Restrictions",
+    "summary": "Prohibits transfer of weapons to other races without Federation Council approval.",
+    "text": "Regulation 15 restricts proliferation by requiring high‑level authorization for any weapons transfer outside Starfleet control.\nStarship captains must secure Council authorization before facilitating such transfers, even in allied theaters.",
+    "hidden": false
+  },
+  {
+    "id": "reg-17-article-12",
+    "code": "Regulation 17, Article 12",
+    "title": "Ban on Genetically Modified Individuals in Starfleet",
+    "summary": "Explicitly prohibits genetically modified individuals from serving in Starfleet.",
+    "text": "This article codifies service ineligibility for individuals with proscribed genetic modifications.\nLimited waivers may exist in extraordinary circumstances, but the baseline rule remains exclusionary pending policy reforms.",
+    "hidden": false
+  },
+  {
+    "id": "reg-17-43",
+    "code": "Regulation 17.43",
+    "title": "Ethical Conduct & Academic Integrity",
+    "summary": "Referenced in the alternate reality as a cadet ethics/code provision used in cheating cases.",
+    "text": "In the alternate reality, Regulation 17.43 appears in Academy disciplinary contexts involving academic dishonesty.\nThough jurisdiction‑specific, it underscores Starfleet’s zero‑tolerance stance on falsified performance.",
+    "hidden": false
+  },
+  {
+    "id": "reg-19-sec-c",
+    "code": "Regulation 19, Section C",
+    "title": "Assumption of Command in Emergencies",
+    "summary": "Allows an officer to take command when an imminent threat exists, lives are in danger, or no equal/higher‑ranking officer is available.",
+    "text": "Section C supplies a clear triad of triggers—imminent threat, danger to citizens, or absence of senior officers—under which an officer may lawfully assume command.\nAfter‑action reviews scrutinize whether the triggers were genuinely met.",
+    "hidden": false
+  },
+  {
+    "id": "reg-25",
+    "code": "Regulation 25",
+    "title": "Weapons Transfer (Duplicate Citation)",
+    "summary": "A second citation of weapons‑transfer prohibitions; retained for cross‑reference parity across eras and sources.",
+    "text": "Some sources list Regulation 25, alongside Regulation 15, as the controlling weapons‑transfer restriction.\nCompliance auditing treats these as harmonized constraints; authorization still requires Federation Council approval.",
+    "hidden": false
+  },
+  {
+    "id": "reg-25-sec-b",
+    "code": "Regulation 25, Section B",
+    "title": "Personal Log Sealing",
+    "summary": "Requires personal logs to remain sealed unless released by order of Starfleet Command.",
+    "text": "Section B protects crew privacy and operational security by sealing personal logs.\nAccess requires an explicit order from Starfleet Command or a competent judicial authority.",
+    "hidden": false
+  },
+  {
+    "id": "reg-42-15",
+    "code": "Regulation 42/15",
+    "title": "Impulse Reactor Coolant (IRC) Tank Pressure",
+    "summary": "Sets conservative pressure variance limits for IRC tank storage, authored by Montgomery Scott.",
+    "text": "A technical standard for impulse power systems, 42/15 prescribes conservative pressure margins to improve safety and reliability.\nThe author, Montgomery Scott, noted the tanks could tolerate more, but the regulation intentionally bakes in caution.",
+    "hidden": false
+  },
+  {
+    "id": "reg-46a",
+    "code": "Regulation 46A",
+    "title": "No Uncoded Transmissions Under Fire",
+    "summary": "Forbids uncoded messages on open channels if transmissions are being monitored during battle.",
+    "text": "46A mitigates signals‑intelligence risks by prohibiting uncoded transmissions in combat when enemy monitoring is suspected.\nExceptions require direct authorization and are logged for post‑action review.",
+    "hidden": false
+  },
+  {
+    "id": "reg-76",
+    "code": "Regulation 76",
+    "title": "Prohibition on Aiming Phasers at Fellow Officers",
+    "summary": "Bars pointing a phaser at fellow officers without valid cause.",
+    "text": "A basic safety and discipline rule: do not bring a weapon to bear on fellow officers absent lawful justification.\nViolations trigger security referral and, where applicable, court‑martial charges.",
+    "hidden": false
+  },
+  {
+    "id": "reg-157-3-18",
+    "code": "Regulation 157, Section 3, Paragraph 18",
+    "title": "Minimize Participation in Historical Events",
+    "summary": "Requires officers to minimize participation in historical events (time travel/temporal anomalies).",
+    "text": "This regulation operationalizes temporal caution for crews encountering time travel or historical displacement.\nActions must be narrowly tailored to mission survival and non‑disruptive to recorded history.",
+    "hidden": false
+  },
+  {
+    "id": "reg-191-art-14",
+    "code": "Regulation 191, Article 14",
+    "title": "Combat Command Precedence",
+    "summary": "In multi‑ship combat, command falls to the vessel with tactical superiority absent a higher‑ranking officer.",
+    "text": "Invoked in inter‑vessel engagements to establish clear command precedence, this article reduces confusion and conflicting orders in battle.\n“Tactical superiority” is evaluated on survivability, maneuver, and armament in the moment.",
+    "hidden": false
+  },
+  {
+    "id": "reg-208-para-2",
+    "code": "Regulation 208, Paragraph 2",
+    "title": "Active Captain Override",
+    "summary": "Permits an active captain to override orders of other officers within defined limits.",
+    "text": "Paragraph 2 emphasizes that an active, duly recognized captain retains authority to countermand orders that jeopardize mission integrity or safety,\nsubject to review for abuse of discretion.",
+    "hidden": false
+  },
+  {
+    "id": "reg-256-15",
+    "code": "Regulation 256.15",
+    "title": "Officer Conduct",
+    "summary": "Requires conduct befitting an officer at all times.",
+    "text": "A general‑conduct clause mandating professionalism, restraint, and adherence to Starfleet’s code of ethics on and off duty.",
+    "hidden": false
+  },
+  {
+    "id": "reg-498",
+    "code": "Regulation 498",
+    "title": "Weapons Transfer Restrictions (Alternate Numbering)",
+    "summary": "Another enumerated restriction on transferring weapons without Council approval; retained for cross‑reference.",
+    "text": "Certain sources adopt alternate numbering for the weapons‑transfer rule. Operationally it mirrors Regulations 15 and 25:\ndo not transfer weapons without Federation Council authorization.",
+    "hidden": false
+  },
+  {
+    "id": "reg-619",
+    "code": "Regulation 619",
+    "title": "Relinquishment of Command Due to Compromise",
+    "summary": "Requires a CO to relieve themself if emotionally compromised and unable to make rational decisions.",
+    "text": "A safeguard against impaired decision‑making in crisis. The regulation expects candid self‑assessment by the CO,\nreinforced by medical and senior‑officer oversight.",
+    "hidden": false
+  },
+  {
+    "id": "reg-756",
+    "code": "Regulation 756",
+    "title": "Weapons Transfer Restrictions (Alternate)",
+    "summary": "Yet another enumerated weapons‑transfer prohibition; maintained for cross‑reference parity.",
+    "text": "Mirrors the substance of Regulations 15/25/498, reflecting variant numbering across eras and records.",
+    "hidden": false
+  },
+  {
+    "id": "reg-2884-3",
+    "code": "Regulation 2884.3",
+    "title": "Handling Unstable Substances in Oxygen Atmospheres",
+    "summary": "Mandates special handling for certain unstable compounds in oxygen atmospheres.",
+    "text": "A safety regulation cited in engineering logs specifying containment and handling protocols for hazardous materials in O2 environments.\nLinked updates reference compatible storage media and restricted areas.",
+    "hidden": false
+  },
+  {
+    "id": "reg-3287-0",
+    "code": "Regulation 3287.0",
+    "title": "Antimatter Containment",
+    "summary": "Requires antimatter to be stored in magnetic confinement pods due to volatility.",
+    "text": "This engineering standard codifies antimatter storage in magnetic confinement, with alarm thresholds, inspection cadence, and emergency venting procedures.",
+    "hidden": false
+  },
+  {
+    "id": "reg-13982",
+    "code": "Regulation 13982",
+    "title": "Wartime Conscription Authority",
+    "summary": "Allows a Starfleet captain to conscript almost any person into service during a time of war.",
+    "text": "Conscription authority is tightly bounded to declared or de facto wartime conditions and is subject to post‑action audit and automatic sunset after hostilities.",
+    "hidden": false
+  },
+  {
+    "id": "reg-614617",
+    "code": "Regulation 614617",
+    "title": "Prohibition on Permanent DNA Modification",
+    "summary": "Bans permanent DNA modification of personnel.",
+    "text": "A bioethics regulation proscribing germline or persistent somatic modifications to Starfleet personnel, save for tightly controlled medical exceptions.",
+    "hidden": false
+  },
+  {
+    "id": "protocol-awayteam-armed",
+    "code": "Away Team Protocol (Unnumbered)",
+    "title": "Armed & Ready Until Contact",
+    "summary": "Requires away teams to remain armed and ready to defend themselves until contact is made.",
+    "text": "This standing protocol directs away teams to remain armed and on defensive posture until formal contact and threat assessment are complete.\nIt evolved from repeated ambush scenarios and hostile‑environment landings in the 23rd–24th centuries.",
+    "hidden": false
+  },
+  {
+    "id": "protocol-awayteam-min-two",
+    "code": "Away Team Protocol (Unnumbered)",
+    "title": "Minimum Two‑Person Teams",
+    "summary": "Requires away teams to consist of more than one member except in extraordinary circumstances.",
+    "text": "To mitigate isolation risk and provide immediate mutual support, away team deployments are structured as at least two personnel.\nSolo exceptions require commanding‑officer authorization and documented necessity.",
+    "hidden": false
+  },
+  {
+    "id": "safety-3984-a",
+    "code": "Safety Directive 3984/A",
+    "title": "Ultritium 283 & Class‑K/Cryogenic Prohibition",
+    "summary": "Prohibits the use of ultritium 283 in class‑K environments or cryogenic substrates; updated per stardate 43094.3.",
+    "text": "3984/A enumerates environmental prohibitions for explosive compound ultritium 283.\nThe directive was updated on stardate 43094.3 to clarify class‑K and cryogenic handling restrictions after incident reviews.",
+    "hidden": false
+  },
+  {
+    "id": "sfra-2884-3",
+    "code": "SFRA 2884.3",
+    "title": "Safety Standards for Specific Compounds in Class‑N(2) Environments",
+    "summary": "Lists safety regulations for balter compound 298 and tri‑nickolas powder in Class‑N(2) planetary environments.",
+    "text": "This Starfleet‑Federation Regulatory Authority item prescribes containment, PPE, and transport limits for designated compounds\nused in industrial or scientific contexts on Class‑N(2) worlds.",
+    "hidden": false
+  },
+  {
+    "id": "protocol-address-sir",
+    "code": "Protocol (Address of Superiors)",
+    "title": "Form of Address for Command",
+    "summary": "Establishes 'sir' as standard address to a commanding officer; naval tradition uses 'captain' for ship COs.",
+    "text": "The protocol standardizes forms of address to maintain clarity and respect within command hierarchies. While some COs prefer alternatives (e.g., “ma’am”),\nthe baseline is “sir,” and by naval tradition a ship’s commanding officer may be addressed as “captain,” irrespective of rank.",
+    "hidden": false
+  },
+  {
+    "id": "protocol-yellow-alert-lasers",
+    "code": "Operational Protocol (Legacy)",
+    "title": "Yellow Alert on Laser Targeting",
+    "summary": "Calls for declaring yellow alert if a starship is targeted by laser weapons.",
+    "text": "A legacy operations note reflecting early contact eras: when targeted by laser‑class weapons, the ship is to go to yellow alert pending threat assessment.\nThough lasers are archaic relative to phasers and disruptors, the protocol endures as a conservative safety practice.",
+    "hidden": false
+  },
+  {
+    "id": "protocol-28-subd",
+    "code": "Protocol 28, Subsection D",
+    "title": "EMH Conduct During Hostile Takeover",
+    "summary": "Directs the Emergency Medical Hologram to deactivate and await rescue in the event of hostile control of the ship.",
+    "text": "To prevent coercion or misuse during shipboard seizures, Protocol 28, Subsection D instructs the EMH program to deactivate and await Starfleet recovery operations.\nMedical continuity plans require designated biological personnel to assume triage while the EMH remains offline.",
+    "hidden": false
+  }
+]
